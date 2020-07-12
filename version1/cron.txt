@@ -1,0 +1,1 @@
+55 23 * * * python3 /crypto-predicto/TrainingDatasetBuilder.py
